@@ -1,28 +1,7 @@
 # 0. testing
 Terminal*
 chat*
-*.dmg
-*.app
-*.zip
-!tool-prompts.zip 
-!lib/spellchecker/dict/*.zip
-
-out/
-dist/
-build/
-
-
-package-lock.json
-count_*
 cls*
-cls_build_with_icons/
-zzz*
-CLAUDE.md
-cls_how_tos/
-screencaps/
-WritersToolkit.iconset/
-storygrind.iconset/
-*.cer
 
 # 1. Node modules
 node_modules/
