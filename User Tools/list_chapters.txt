@@ -1,0 +1,4 @@
+
+List the chapters in the manuscript, with a one-liner blurb for each chapter.
+
+Do not use Markdown in your response.
